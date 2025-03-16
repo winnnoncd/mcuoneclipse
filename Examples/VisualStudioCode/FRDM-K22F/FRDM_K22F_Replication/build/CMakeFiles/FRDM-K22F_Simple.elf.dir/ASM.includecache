@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Git_repos/mcuoneclipse/Examples/VisualStudioCode/FRDM-K22F/FRDM_K22F_Replication/device/startup_MK22F51212.S
+
